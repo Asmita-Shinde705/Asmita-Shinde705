@@ -72,10 +72,9 @@ _____________________________________________________
 
 -College department and Office Assistant through ‘Earn and Learn Scheme’ during UG (BCA ). 
 -Contributed in social service activities held by National Service Scheme (NSS) 
-- Participant in poster making competitions as well as 
-Through online platform Completed certification course in advance Excel
+- Participant in poster making competitions as well as Through online platform Completed certification course in advance Excel
 - Through online platform Completed AWS certification course.
-- 
+  
 
 
 
