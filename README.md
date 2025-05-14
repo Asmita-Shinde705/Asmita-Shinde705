@@ -40,7 +40,7 @@ __________________
 •	JAVA 
 •	Python
 •	WordPress 
-•	AWS
+•	AWS(cloud Computing)
 •	PHP
 •	SQL
 
